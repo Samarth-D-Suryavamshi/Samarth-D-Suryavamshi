@@ -6,7 +6,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-D-Suryavamshi&layout=compact&hide_border=true)
 
-Building intelligent software systems that combine AI, automation, backend infrastructure, and scalable architectures.
+Building intelligent software systems that combine AI, automation, backend infrastructure, and scalable architectures. 
 
 ---
 
