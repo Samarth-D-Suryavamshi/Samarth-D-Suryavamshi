@@ -2,6 +2,10 @@
 
 ### AI Systems • Backend Engineering • Workflow Automation • System Design
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthsuryavamshi&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthsuryavamshi&layout=compact&hide_border=true)
+
 Building intelligent software systems that combine AI, automation, backend infrastructure, and scalable architectures.
 
 ---
